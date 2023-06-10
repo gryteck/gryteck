@@ -1,6 +1,6 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-#Hi there! About me:
+<h1>Hi there! About me:</h1>
 - 🧑‍🎓 Have a bachelor's degree in `Robotics` (BMSTU, Moscow 2022)
 - 💻 Currently pursuing a master's degree in `software engineering` (BMSTU, Moscow)
 - 🤓 I love using Software as a solution for every `Problem` and automate processes.
