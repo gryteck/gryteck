@@ -2,10 +2,10 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>- 🧑‍🎓 Have a bachelor's degree in `Robotics` (BMSTU, Moscow 2022)
-<br>- 💻 Currently pursuing a master's degree in `software engineering` (BMSTU, Moscow)
+<br>- 💻 I have about `2k users of my own pet projects`
 <br>- 🤓 I love using Software as a solution for every `Problem` and automate processes.
 <br>- 📚 Working wz `PgSQL` (DDL, DML, etc)
-<br>- 🥲 Currently learning `Django` and `SQL optimisation`.
+<br>- 🥲 Currently learning `FastAPI` and `SQLalchemy`.
 <br>- 🆕 Always `learning new things`.
 <br>- 💼 I’m currently open for a new `job opportunity`.
 <br>
@@ -14,10 +14,10 @@
 
 Pet projects: [ could be closed / privatized ]
 
-- [Akira matchbot](https://github.com/gryteck/Telegram_Bot/tree/develop) - telegram bot for dating (asyncio, Postgres,
+- [Akira matchbot](https://github.com/gryteck/telegram_matchbot) - telegram bot for dating (asyncio, SQLalchemy,
   Redis, Docker) [[in prod]](t.me/akira_matchbot?start=ref)
-- [clothes store](https://github.com/gryteck/django-store) - clothes store web-site (Django, SQLite3, HTML, CSS)
-
+- [Clothes store](https://github.com/gryteck/django-store) - clothes store web-site (Django, SQLite3, HTML, CSS)
+- [Quiz App  wz API](https://github.com/gryteck/quiz) - quiz app with POST requests (FastAPI)
 Study projects:
 
 - [persons](https://github.com/gryteck/study/tree/persons) - simple web app with RESTful API (flask, pgsql, docker)
