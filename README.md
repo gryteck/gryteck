@@ -17,7 +17,8 @@ Pet projects: [ could be closed / privatized ]
 - [Akira matchbot](https://github.com/gryteck/telegram_matchbot) - telegram bot for dating (asyncio, SQLalchemy,
   Redis, Docker) [[in prod]](t.me/akira_matchbot?start=ref)
 - [Clothes store](https://github.com/gryteck/django-store) - clothes store web-site (Django, SQLite3, HTML, CSS)
-- [Quiz App  wz API](https://github.com/gryteck/quiz) - quiz app with POST requests (FastAPI)
+- [Quiz App  wz API](https://github.com/gryteck/quiz) - quiz app with POST requests (FastAPI)<br>
+
 Study projects:
 
 - [persons](https://github.com/gryteck/study/tree/persons) - simple web app with RESTful API (flask, pgsql, docker)
@@ -28,7 +29,7 @@ Study projects:
 
 </details>
 
-<details><summary>💼 My certificates: </summary>
+<details><summary>💼 My certificates: </summary><br>
 
 - **[Backend development on Django](https://stepik.org/certificate/e2d00b729fb12cc398128770be2362ee4ab0d81f.png?language=en&resolution=high)**
 - **[Python Developer](https://stepik.org/certificate/d727de8c8c3d0feefadf2ffd66b90432b869b77c.png?language=en&resolution=high)**
